@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "Which mathematical theorem stats that no more than four colors are required to color the regions of any map?",
+    "answer": "Four color theorem"
+  },
+  {
+    "id": 2,
+    "question": "How many special wards are there in Tokyo?",
+    "answer": "23"
+  },
+  {
+    "id": 3,
+    "question": "New Delhi is located along which of India's major rivers?",
+    "answer": "Yamuna"
+  },
+  {
+    "id": 4,
+    "question": "In what year was Brasilia established as the capital of Brazil?",
+    "answer": "1960"
+  },
+  {
+    "id": 5,
+    "question": "What type of lake is Lake Baikal?",
+    "answer": "Rift lake"
+  },
+  {
+    "id": 6,
+    "question": "In Final Fantasy VII, what weapon does protagonist Cloud Strife use?",
+    "answer": "Buster Sword"
+  },
+  {
+    "id": 7,
+    "question": "What is the highest award ar the Cannes Film Festival?",
+    "answer": "Palme d'or"
+  },
+  {
+    "id": 8,
+    "question": "What is the name of the heroine in the movie \"Titanic\"?",
+    "answer": "Rose"
+  },
+  {
+    "id": 9,
+    "question": "In Japan, \"torii\" gates are usually placed at the entrance of what buildings?",
+    "answer": "Shrines"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is the correct description for the stratosphere?",
+    "answer": "It is warm above and cold below"
+  },
+  {
+    "id": 11,
+    "question": "Who is the goddess of the earth in ancient Greek mythology?",
+    "answer": "Gaea"
+  }
+]
