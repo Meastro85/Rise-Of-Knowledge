@@ -53,5 +53,150 @@
     "id": 11,
     "question": "Who is the goddess of the earth in ancient Greek mythology?",
     "answer": "Gaea"
+  },
+  {
+    "id": 12,
+    "question": "What is the most abundant substance in the body of a healthy adult?",
+    "answer": "Water"
+  },
+  {
+    "id": 13,
+    "question": "What is Commander Hermann good at?",
+    "answer": "Leading archer units"
+  },
+  {
+    "id": 14,
+    "question": "Which film won Best Picture at the 2021 Academy Awards?",
+    "answer": "Nomadland"
+  },
+  {
+    "id": 15,
+    "question": "Who directed the movie \"Titanic\"?",
+    "answer": "James Cameron"
+  },
+  {
+    "id": 16,
+    "question": "If a rectangle is 8 long and 6 wide, what is its area?",
+    "answer": 48
+  },
+  {
+    "id": 17,
+    "question": "Which of these foods is rich in vitamin C?",
+    "answer": "Orange"
+  },
+  {
+    "id": 18,
+    "question": "Which of these dishes is Beijing known for?",
+    "answer": "Peking duck"
+  },
+  {
+    "id": 19,
+    "question": "Which of these dances originated in Spain and is known for its intense and passionate style?",
+    "answer": "Flamenco"
+  },
+  {
+    "id": 20,
+    "question": "Which programming language is widely used to develop games for the Unity engine?",
+    "answer": "C#"
+  },
+  {
+    "id": 21,
+    "question": "Which is the viking civilization's special unit?",
+    "answer": "Berserker"
+  },
+  {
+    "id": 22,
+    "question": "Which of these Cities is located in South America?",
+    "answer": "Buenos Aires"
+  },
+  {
+    "id": 23,
+    "question": "From the 8th to the Ilth century CE, what did Europeans frequently call the Scandinavian invaders who frequently ravager their lands?",
+    "answer": "Vikings"
+  },
+  {
+    "id": 24,
+    "question": "What is the 2nd-largest contituent nation of the United kingdom?",
+    "answer": "Scotland"
+  },
+  {
+    "id": 25,
+    "question": "What is the effect of the accessory \"Vengeance\"?",
+    "answer": "Counterattack Damage +8%"
+  },
+  {
+    "id": 26,
+    "question": "If two sides of a triangle are 3 and 4, and the third side is 5, what is its area?",
+    "answer": "6"
+  },
+  {
+    "id": 27,
+    "question": "In mathematics, how is the transpose of a matrix represented?",
+    "answer": "Swap the rows and columns"
+  },
+  {
+    "id": 28,
+    "question": "When starting from 1, what is the 10th number in the Fibonacci sequence?",
+    "answer": "55"
+  },
+  {
+    "id": 29,
+    "question": "Which architect designed the Eiffel Tower?",
+    "answer": "Gustave Eiffel"
+  },
+  {
+    "id": 30,
+    "question": "Which of these is a common type of functional zoning in urban planning?",
+    "answer": "Residential area"
+  },
+  {
+    "id": 31,
+    "question": "In Super Mario Bros, what is the name of Mario's brother?",
+    "answer": "Luigi"
+  },
+  {
+    "id": 32,
+    "question": "Which of these video games was developed by Blizzard Entertainment?",
+    "answer": "World of Warcraft"
+  },
+  {
+    "id": 33,
+    "question": "Which of these films is about a weatherman trapped in a time loop?",
+    "answer": "Groundhog Day"
+  },
+  {
+    "id": 34,
+    "question": "On a film or TV set, what is the chief electrician called?",
+    "answer": "Gaffer"
+  },
+  {
+    "id": 35,
+    "question": "Who directed the movie \"Avatar\"?",
+    "answer": "James Cameron"
+  },
+  {
+    "id": 36,
+    "question": "Which clock tower in London serves as the city's most iconic landmark?",
+    "answer": "Big Ben"
+  },
+  {
+    "id": 37,
+    "question": "What is the current capital of Russia?",
+    "answer": "Moscow"
+  },
+  {
+    "id": 38,
+    "question": "What can help prevent the spread of influenza?",
+    "answer": "Washing your hands often"
+  },
+  {
+    "id": 39,
+    "question": "In what year was the World Health Organization established?",
+    "answer": "1948"
+  },
+  {
+    "id": 40,
+    "question": "Who directed the movie \"Inception\"?",
+    "answer": "James Cameron"
   }
 ]
